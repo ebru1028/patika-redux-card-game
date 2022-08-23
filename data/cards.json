@@ -1,0 +1,204 @@
+﻿{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Angular2",
+      "imgUrl": "/assets/images/angular2.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 2,
+      "name": "Babel",
+      "imgUrl": "/assets/images/babel.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 3,
+      "name": "Bower",
+      "imgUrl": "/assets/images/bower.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 4,
+      "name": "Ember",
+      "imgUrl": "/assets/images/ember.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 5,
+      "name": "Gulp",
+      "imgUrl": "/assets/images/gulp.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 6,
+      "name": "Ionic",
+      "imgUrl": "/assets/images/ionic.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 7,
+      "name": "Meteor",
+      "imgUrl": "/assets/images/meteor.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 8,
+      "name": "Nodejs",
+      "imgUrl": "/assets/images/nodejs.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 9,
+      "name": "Phantomjs",
+      "imgUrl": "/assets/images/phantomjs.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 10,
+      "name": "React",
+      "imgUrl": "/assets/images/react.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 11,
+      "name": "Vue",
+      "imgUrl": "/assets/images/vue.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 12,
+      "name": "Yarn",
+      "imgUrl": "/assets/images/yarn.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 13,
+      "name": "Yeoman",
+      "imgUrl": "/assets/images/yeoman.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 14,
+      "name": "Angular2",
+      "imgUrl": "/assets/images/angular2.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 15,
+      "name": "Babel",
+      "imgUrl": "/assets/images/babel.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 16,
+      "name": "Bower",
+      "imgUrl": "/assets/images/bower.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 17,
+      "name": "Ember",
+      "imgUrl": "/assets/images/ember.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 18,
+      "name": "Gulp",
+      "imgUrl": "/assets/images/gulp.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 19,
+      "name": "Ionic",
+      "imgUrl": "/assets/images/ionic.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 20,
+      "name": "Meteor",
+      "imgUrl": "/assets/images/meteor.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 21,
+      "name": "Nodejs",
+      "imgUrl": "/assets/images/nodejs.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 22,
+      "name": "Phantomjs",
+      "imgUrl": "/assets/images/phantomjs.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 23,
+      "name": "React",
+      "imgUrl": "/assets/images/react.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 24,
+      "name": "Vue",
+      "imgUrl": "/assets/images/vue.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    },
+    {
+      "id": 25,
+      "name": "Yarn",
+      "imgUrl": "/assets/images/yarn.png",
+      "close": true,
+      "complete": false,
+      "fail": false
+    }
+  ]
+}
